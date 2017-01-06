@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Gif](http://i.imgur.com/szDXE2H.gifv)
+http://i.imgur.com/szDXE2H.gifv
 <img src='http://i.imgur.com/szDXE2H.gifv' title='SecuriTip Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
